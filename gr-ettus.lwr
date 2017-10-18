@@ -24,4 +24,4 @@ depends:
 description: Out-of-tree Module for Experimental Ettus Research Features
 gitbranch: master
 inherit: cmake
-source: git+https://github.com/EttusResearch/gr-ettus.git
+source: git+https://github.com/ipTronix/gr-ettus.git
